@@ -40,7 +40,7 @@ class NVActivityIndicatorAnimationBallScaleRippleMultiple: NVActivityIndicatorAn
 
         scaleAnimation.keyTimes = [0, 0.7]
         scaleAnimation.timingFunction = timingFunction
-        scaleAnimation.values = [0, 1.0]
+        scaleAnimation.values = [0.8, 1.0]
         scaleAnimation.duration = duration
 
         // Opacity animation
